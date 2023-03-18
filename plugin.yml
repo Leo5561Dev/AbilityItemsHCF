@@ -1,16 +1,13 @@
-name: Ability
+name: AbilityItemsHCF
 version: 0.0.1
 api: 4.0.0
-author: itoozh
-main: itoozh\AbilityItems\Main
+author: Leo
+main: Leo\AbilityItems\Main
 
 permissions:
   ability.command:
-    description: by itoozh
+    description: AbilityItems
     default: op
   removenpc.ability:
     description: Use for remove entity
-    default: op
-  pp.command:
-    description: pp
     default: op
